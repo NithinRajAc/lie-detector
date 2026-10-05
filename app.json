@@ -1,15 +1,17 @@
 {
   "expo": {
-    "name": "temp-lie-detector",
-    "slug": "temp-lie-detector",
+    "name": "Lie Detector",
+    "slug": "lie-detector",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nithi.liedetector"
     },
     "android": {
+      "package": "com.nithi.liedetector",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/android-icon-foreground.png",
