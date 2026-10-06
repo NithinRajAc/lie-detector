@@ -253,7 +253,7 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 40,
     fontWeight: "900",
-    color: "#3b82f6",
+    color: "white",
     letterSpacing: 3,
     textShadowColor: "rgba(0, 229, 255, 0.5)",
     textShadowOffset: { width: 0, height: 0 },
